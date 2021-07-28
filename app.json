@@ -36,12 +36,10 @@
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
       "required": false
-      "value": "🔥"
     },
     "UN_FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
       "required": false
-      "value": "⚡"
     }
   },
   "stack": "container"
